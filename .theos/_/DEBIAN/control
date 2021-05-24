@@ -1,0 +1,10 @@
+Package: com.greenglasst.hidedock14
+Name: HideDock14
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: GreenglassT
+Author: GreenglassT
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Version: 1.0.0-5+debug
+Installed-Size: 168
